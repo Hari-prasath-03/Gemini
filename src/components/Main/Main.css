@@ -191,6 +191,14 @@
         left: 0;
         bottom: 0;
         background-color: #fefefe;
+        width: 100%;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+
+    .main-bottom input {
+        flex: none;
+        width: 100%;
     }
 
     .main .greet {
